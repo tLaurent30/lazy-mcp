@@ -16,3 +16,4 @@ Notes and usage details for lazy-mcp.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
