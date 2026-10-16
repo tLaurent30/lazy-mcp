@@ -9,3 +9,4 @@ dist/
 tmp/
 coverage/
 .cache/
+*.orig
